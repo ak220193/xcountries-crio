@@ -32,7 +32,7 @@ const Country = () => {
 
   return (
     <div>
-      <div className="headerStyle">
+      <div className="headerstyle">
         <input
           className="input"
           type="text"
